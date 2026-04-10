@@ -1,16 +1,26 @@
 chill with you丨vol.5
+
 26.4.9
+
 问题
+
 分辨率
+
 后台运行
+
 分情况渲染（工作时&唤醒时）
+
 杯子
+
 白噪音这方面感觉作者还要优化一下，这些环境白噪音是完全高度重复的，就一小段声音反复播，比如下雨不像下雨，像一直开着淋雨喷头，没有任何波动，反而让人有点无法集中。
+
 我甚至觉得有时候我软件开多了风扇声突然变大，一会儿关了又变小了都比这个自然一点（https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_session_id=AoPbZqv3iODksXgr&h_src=YXBwX3NoYXJl&link_id=8a5571bee262）
+
 比例问题，我们发现了一个有趣的比例问题（https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_session_id=zFLewSwcEhAKyUIF&h_src=YXBwX3NoYXJl&link_id=1a1c71be93b9）
+
 建议
+
 大型中国社群
-距离高考还有59天，别忘了学习哦！
 
 Vol.5 中文反馈邮件（2026.04.09）
 
