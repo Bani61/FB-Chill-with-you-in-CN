@@ -1,26 +1,3 @@
-chill with you丨vol.5
-
-26.4.9
-
-问题
-
-分辨率
-
-后台运行
-
-分情况渲染（工作时&唤醒时）
-
-杯子
-
-白噪音这方面感觉作者还要优化一下，这些环境白噪音是完全高度重复的，就一小段声音反复播，比如下雨不像下雨，像一直开着淋雨喷头，没有任何波动，反而让人有点无法集中。
-
-我甚至觉得有时候我软件开多了风扇声突然变大，一会儿关了又变小了都比这个自然一点（https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_session_id=AoPbZqv3iODksXgr&h_src=YXBwX3NoYXJl&link_id=8a5571bee262）
-
-比例问题，我们发现了一个有趣的比例问题（https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_session_id=zFLewSwcEhAKyUIF&h_src=YXBwX3NoYXJl&link_id=1a1c71be93b9）
-
-建议
-
-大型中国社群
 
 Vol.5 中文反馈邮件（2026.04.09）
 
@@ -56,16 +33,21 @@ Vol.5 中文反馈邮件（2026.04.09）
 - 特此向您确认：该商品是否为官方授权的正版周边？还是非官方的仿制品？
 链接：https://m.tb.cn/h.inwJdhS?tk=vbY154wGrjB
 
+![商品分享图](images/0001.jpg)
+
 5. 白噪音音效优化问题
 
 - 现象：当前环境白噪音存在严重的高度重复问题，仅用一小段循环播放，缺乏自然波动。- 例如：下雨音效更像持续的淋雨喷头声，没有真实雨声的强弱、疏密变化，反而会干扰注意力，无法起到放松、助专注的效果。
 - 对比：甚至手机后台多开软件时的风扇声变化，都比当前白噪音更自然。
 - 补充链接（玩家实测反馈）：https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_session_id=AoPbZqv3iODksXgr&h_src=YXBwX3NoYXJl&link_id=8a5571bee262
 
+
 6. 特殊比例显示异常问题
 
 - 现象：在部分特殊比例设备上，出现了有趣的画面比例异常（如图二），属于适配的边缘场景问题。
 - 补充链接（玩家实拍）：https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_session_id=zFLewSwcEhAKyUIF&h_src=YXBwX3NoYXJl&link_id=1a1c71be93b9 
+
+![用户的反馈](images/0002.webp)
 
 二、功能与合作建议
 
@@ -109,6 +91,8 @@ chill with you丨Vol.5 中国本土ユーザーからの質問まとめ及びコ
 - この商品が公式認可の正規グッズか、非公式の偽造品か、確認のためご連絡いたしました。
 リンク：https://m.tb.cn/h.inwJdhS?tk=vbY154wGrjB
 
+![商品分享图](images/0001.jpg)
+
 5. ホワイトノイズの音響効果改善問題
 - 現象：現在の環境ホワイトノイズは非常に単調な繰り返しが顕著で、短い区間をループ再生しているだけのため、自然な変化がありません。
 - 例えば、雨音の効果は持続的なシャワーヘッドの音のようになっており、本物の雨音にある強弱や密疎の変化がなく、かえって集中力を妨げてしまい、リラックスや集中の効果を得られません。
@@ -118,6 +102,8 @@ chill with you丨Vol.5 中国本土ユーザーからの質問まとめ及びコ
 6. 特殊比率での表示異常問題
 - 現象：一部の特殊比率のデバイスでは、添付画像2のような興味深い画面比率の異常が発生しています。適合のエッジケースにおける問題です。
 - 補足リンク（プレイヤーの実写）：https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?h_camp=link&h_session_id=zFLewSwcEhAKyUIF&h_src=YXBwX3NoYXJl&link_id=1a1c71be93b9
+
+![用户的反馈](images/0002.webp)
 
 ### 二、機能・コラボレーション提案
 
